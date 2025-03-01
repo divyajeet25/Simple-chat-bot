@@ -1,2 +1,6 @@
 # Simple-chat-bot
 This code creates a simple chat bot in python using Tkinter with GUI .
+In this code we just see a simple GUI which respond on user questions as the given comands.
+This may be upgraded by  adding some more commands or linking with it with cloud or internet.
+This is only a simple project for beginners to give them a idea that how a chatbot is working.............
+...........THANK YOU............
